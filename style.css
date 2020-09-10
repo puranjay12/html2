@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    border: dashed;
+    background-color:  lightblue
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap
+    
+}
+
+
